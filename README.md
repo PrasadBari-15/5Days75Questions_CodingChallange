@@ -7,7 +7,7 @@ Duration: 5 days
 
 Total Problems: 75
 
-# Goals
+_Goals_
 
 Enhance problem-solving skills.
 
@@ -25,27 +25,13 @@ Programming Languages:
 
 C
 
-# Challenge Overview
+# Disclaimer
 
-*Day 1*: Introduction to Problem Solving
+The solutions provided are based on my understanding and approach to the problems at the time of solving them. There may be alternative or more efficient solutions that I encourage the community to discuss and share.
 
-Solved 15 problems focused on understanding basic algorithms and problem-solving strategies.
 
-*Day 2*: Data Structures and Algorithms
 
-Tackled 20 problems related to data structures like arrays, linked lists, stacks, and queues, and implemented fundamental algorithms.
 
-*Day 3*: Algorithmic Paradigms
-
-Worked on 20 problems involving dynamic programming, greedy algorithms, and divide and conquer strategies.
-
-*Day 4*: Searching and Sorting
-
-Solved 10 problems focusing on various searching and sorting algorithms.
-
-*Day 5*: Advanced Concepts
-
-Delved into 10 challenging problems, exploring advanced topics like graph theory, backtracking, and more.
 
 
 

@@ -17,7 +17,7 @@ Learn to optimize code for efficiency and readability.
 
 Strengthen understanding of data structures and algorithms.
 
-Each day's solutions are organized into separate folders, and each problem is accompanied by a well-commented code implementation.
+Each day's solutions are organized into separate folders, and each problem is accompanied by a well-commented code implementation
 
 # Technologies Used
 
